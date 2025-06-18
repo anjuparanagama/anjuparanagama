@@ -56,14 +56,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anjuparanagama&show_icons=true&theme=radical" alt="Anju's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjunawod&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjuparanagama&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anjunawod&theme=onestar&margin-w=10&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anjuparanagama&theme=onestar&margin-w=10&row=2&column=3" />
 </p>
 
 ---
