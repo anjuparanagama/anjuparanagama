@@ -55,7 +55,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjunawod&show_icons=true&theme=radical" alt="Anju's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anjuparanagama&show_icons=true&theme=radical" alt="Anju's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjunawod&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
