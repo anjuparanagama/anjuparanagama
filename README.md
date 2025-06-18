@@ -1,6 +1,6 @@
 <!-- Profile README for @anjunawod -->
 
-<h1 align="center">👋 Hi, I'm Anju Nawod</h1>
+<h1 align="center">👋 Hi, I'm Anjula Paranagama</h1>
 <h3 align="center">🌐 Full-Stack Developer | ⚙️ IoT Enthusiast | ☁️ DevOps Learner</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 - 🛠️ Working on full-stack web & mobile apps, IoT & automation systems  
 - 🌱 Currently learning: DevOps, Docker, Kubernetes, and Cloud Services  
 - 🧠 Passionate about smart farming and digital innovation  
-- 📍 Based in Matara, Sri Lanka  
+- 📍 Based in Homagama, Sri Lanka  
 - 🗣️ Languages: English 🇬🇧 | Sinhala 🇱🇰  
 
 ---
@@ -27,7 +27,6 @@
 - 💻 **LaptopMart** – E-commerce web app for laptops built with Next.js & Docker  
 - 📚 **Library Management Systems** – Built with Java and Python for desktop use  
 - 🌦️ **Meteo Earth** – Weather dashboard using OpenWeather API  
-- 🔐 **Scholarship Form Verifier** – Auto-verify forms with digital signature validation  
 
 ---
 
@@ -72,8 +71,7 @@
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINK/)  
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail)](mailto:yourmail@example.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://anjulaparanagama.vercel.app/)
 
 ---
 
