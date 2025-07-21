@@ -26,7 +26,8 @@
 - 🎟️ **EventForge** – Full-stack event manager with QR-based ticketing and email system  
 - 💻 **LaptopMart** – E-commerce web app for laptops built with Next.js & Docker  
 - 📚 **Library Management Systems** – Built with Java and Python for desktop use  
-- 🌦️ **Meteo Earth** – Weather dashboard using OpenWeather API  
+- 🌦️ **Meteo Earth** – Weather dashboard using OpenWeather API
+- 🗓️ **Function.O** - Smart Event Management system with QR code generating and Participants Managing
 
 ---
 
