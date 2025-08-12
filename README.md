@@ -22,8 +22,7 @@
 
 ### 💼 Projects Highlights
 
-- 🦐 **Smart Prawn Farm System** – IoT-based farm automation, order tracking, and mobile app  
-- 🎟️ **EventForge** – Full-stack event manager with QR-based ticketing and email system  
+- 🦐 **Smart Prawn Farm System** – IoT-based farm automation, order tracking, and mobile app   
 - 💻 **LaptopMart** – E-commerce web app for laptops built with Next.js & Docker  
 - 📚 **Library Management Systems** – Built with Java and Python for desktop use  
 - 🌦️ **Meteo Earth** – Weather dashboard using OpenWeather API
@@ -37,7 +36,6 @@
 <p>
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
@@ -52,7 +50,6 @@
 #### 🔧 DevOps & Tools
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
