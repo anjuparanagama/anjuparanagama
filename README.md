@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a2c,100:2c7744&height=220&section=header&text=Anjula%20Paranagama&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a2c,100:2c7744&height=230&section=header&text=Anjula%20Paranagama&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
 
@@ -14,80 +14,205 @@
 
 ---
 
-# 👋 Hello World
+# 👋 Welcome to My Digital Space
 
 <img align="right" width="320" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
 I'm **Anjula Paranagama** from **Sri Lanka 🇱🇰**
 
-🚀 Passionate about building **smart digital solutions combining IoT + Cloud + Web**
-
-### 🎯 Current Mission
-Building **smart agriculture systems** and learning **DevOps & Cloud Infrastructure**
+🚀 Passionate about building **real-world solutions using Web, Mobile, IoT and Cloud technologies.**
 
 ---
 
-# 🧠 About Me
+# 👨‍💻 About Me
 
-- 🎓 **Undergraduate in Information Technology**
-- 💻 **Full Stack Developer**
-- 📡 **IoT System Developer**
-- ☁️ **Learning DevOps Engineering**
-- 🌱 Passionate about **Smart Farming Technology**
+<div align="center">
 
-### 🌍 Languages
+<table>
+<tr>
+<td width="50%">
 
-- English 🇬🇧
-- Sinhala 🇱🇰
+### 🧑‍💻 Developer
+
+- 🚀 Full Stack Developer  
+- 📡 IoT System Builder  
+- ☁️ DevOps Learner  
+- 🌱 Smart Farming Enthusiast  
+
+</td>
+
+<td width="50%">
+
+### 🎓 Education
+
+🎓 Undergraduate in **Information Technology**
+
+🏫 Institute of Technology  
+University of Moratuwa
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Quick Facts
+
+| Category | Details |
+|--------|--------|
+| 🌍 Location | Sri Lanka 🇱🇰 |
+| 💻 Focus | Web + Mobile + IoT |
+| 📚 Learning | DevOps, Kubernetes, Cloud |
+| 🧠 Interests | Smart Agriculture, Automation |
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🦐 Smart Prawn Farm Management System
-IoT powered farm monitoring system with sensors, automation and mobile dashboard.
+<div align="center">
 
-### 🛒 LaptopMart
-Full stack **E-commerce platform** using **Next.js + Docker**
+<table>
 
-### 📚 Library Management Systems
-Desktop systems built using **Java** and **Python**
+<tr>
+<td width="50%">
+
+### 🦐 Smart Prawn Farm System
+
+📡 IoT based farm management platform
+
+**Features**
+
+• Water quality monitoring  
+• Feeding automation  
+• Worker management  
+• Order tracking system  
+
+**Tech Stack**
+
+React • Flutter • Node.js • MySQL • InfluxDB
+
+</td>
+
+<td width="50%">
+
+### 💻 LaptopMart
+
+Modern **Laptop E-commerce platform**
+
+**Features**
+
+• Product catalog  
+• Shopping cart  
+• Payment integration  
+• Admin dashboard  
+
+**Tech Stack**
+
+Next.js • Node.js • Docker • MySQL
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📚 Library Management System
+
+Desktop application for managing libraries
+
+**Features**
+
+• Book inventory  
+• Borrowing system  
+• Student management  
+
+**Tech Stack**
+
+Java • Python
+
+</td>
+
+<td width="50%">
 
 ### 🌦 Meteo Earth
-Weather dashboard using **OpenWeather API**
+
+Interactive weather dashboard
+
+**Features**
+
+• Global weather search  
+• Real-time weather updates  
+• Clean UI  
+
+**Tech Stack**
+
+HTML • CSS • JavaScript • OpenWeather API
+
+</td>
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
 
 ### 🗓 Function.O
-Smart **Event Management System** with QR code ticket scanning
+
+Smart **Event Management System**
+
+**Features**
+
+• QR code tickets  
+• Email invitations  
+• Participant management  
+• Event check-in system  
+
+**Tech Stack**
+
+Next.js • Firebase • QR Technology
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### 🌐 Web Development
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,typescript,flutter" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,typescript,flutter"/>
 
-</p>
+</div>
 
-### 🗄 Databases
+### 🗃 Databases
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
 <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white"/>
 
-</p>
+</div>
 
-### ⚙️ DevOps & Tools
+### ⚙️ DevOps Tools
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,vscode"/>
 
-</p>
+</div>
 
 ---
 
@@ -113,7 +238,7 @@ Smart **Event Management System** with QR code ticket scanning
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -123,17 +248,7 @@ Smart **Event Management System** with QR code ticket scanning
 
 ---
 
-# 🌱 Currently Learning
-
-- ☸️ Kubernetes
-- 🐳 Docker
-- ☁️ Cloud Architecture
-- 🔄 CI/CD Pipelines
-- 📦 Microservices
-
----
-
-# 🤝 Connect With Me
+# 📫 Connect With Me
 
 <div align="center">
 
@@ -155,7 +270,7 @@ Smart **Event Management System** with QR code ticket scanning
 
 <div align="center">
 
-⭐ **If you like my projects, give them a star!**
+⭐ If you like my projects, consider giving them a **star**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c7744,100:0f2027&height=120&section=footer"/>
 
