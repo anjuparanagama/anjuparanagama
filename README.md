@@ -16,8 +16,6 @@
 
 # 👋 Welcome to My Digital Space
 
-<img align="right" width="320" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
-
 I'm **Anjula Paranagama** from **Sri Lanka 🇱🇰**
 
 🚀 Passionate about building **real-world solutions using Web, Mobile, IoT and Cloud technologies.**
