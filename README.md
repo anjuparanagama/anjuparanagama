@@ -14,8 +14,6 @@
 
 ---
 
-# 👋 Welcome to My Digital Space
-
 I'm **Anjula Paranagama** from **Sri Lanka 🇱🇰**
 
 🚀 Passionate about building **real-world solutions using Web, Mobile, IoT and Cloud technologies.**
