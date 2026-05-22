@@ -114,6 +114,45 @@ Next.js • Node.js • Docker • MySQL
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🦐 Kandalama.app
+
+📡 Sri lanka Property selling system
+
+**Features**
+
+• Place Ads 
+• View Ad details and manage seller profile
+• Admin Dashboard
+• Map intergration
+
+**Tech Stack**
+
+Next • Supabase
+
+</td>
+
+<td width="50%">
+
+### 💻 LaptopMart
+
+Modern **Laptop E-commerce platform**
+
+**Features**
+
+• Product catalog  
+• Shopping cart  
+• Payment integration  
+• Admin dashboard  
+
+**Tech Stack**
+
+Next.js • Node.js • Docker • MySQL
+
+</td>
+</tr>
 
 <tr>
 <td width="50%">
