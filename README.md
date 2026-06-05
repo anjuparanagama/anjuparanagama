@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/anjuparanagama/anjuparanagama/main/assets/banner.png" alt="Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/anjuparanagama/anjuparanagama/main/assets/header.jpeg" alt="Banner" width="100%"/>
 </div>
 
 <div align="center">
