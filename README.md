@@ -1,9 +1,7 @@
 <!-- GitHub Profile README -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a2c,100:2c7744&height=230&section=header&text=Anjula%20Paranagama&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
+  <img src="https://raw.githubusercontent.com/anjuparanagama/anjuparanagama/main/assets/banner.png" alt="Banner" width="100%"/>
 </div>
 
 <div align="center">
