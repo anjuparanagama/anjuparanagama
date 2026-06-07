@@ -1,113 +1,194 @@
-<!-- GitHub Profile README -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/anjuparanagama/anjuparanagama/main/assets/header.jpeg" alt="Banner" width="100%"/>
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?color=2ECC71&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;IoT+Systems+Developer;DevOps+Engineer+in+Progress;Smart+Farming+Innovator"/>
-
-</div>
-
----
-
-I'm **Anjula Paranagama** from **Sri Lanka 🇱🇰**
-
-🚀 Passionate about building **real-world solutions using Web, Mobile, IoT and Cloud technologies.**
-
----
-
-# 👨‍💻 About Me
+<!-- ===================================================== -->
+<!--                 GITHUB PROFILE README                 -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<img src="https://raw.githubusercontent.com/anjuparanagama/anjuparanagama/main/assets/header.jpeg" width="100%" alt="Banner"/>
 
-### 🧑‍💻 Developer
+<br/>
+<br/>
 
-- 🚀 Full Stack Developer  
-- 📡 IoT System Builder  
-- ☁️ DevOps Learner  
-- 🌱 Smart Farming Enthusiast  
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=900&lines=Software+Engineer;DevOps+Engineer+in+Progress;AIOps+Enthusiast;IoT+Systems+Developer;Cloud+Native+Developer;Building+Scalable+Solutions"/>
 
-</td>
 
-<td width="50%">
+### Software Engineer • DevOps Learner • AIOps Enthusiast • IoT Developer
 
-### 🎓 Education
-
-🎓 Undergraduate in **Information Technology**
-
-🏫 Institute of Technology  
-University of Moratuwa
-
-</td>
-</tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=anjuparanagama&label=PROFILE+VIEWS&color=2ECC71&style=for-the-badge"/>
 
 </div>
 
 ---
 
+## 🚀 About Me
+
 <div align="center">
 
-### ⚡ Quick Facts
+Passionate about building reliable, scalable, and intelligent systems using modern technologies.
+
+I focus on software engineering, cloud-native development, DevOps practices, AIOps automation, and IoT solutions that solve real-world challenges.
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+### Bachelor of Information Technology (BIT)
+**University of Moratuwa**
+
+### National Diploma in Information Technology
+**Institute of Technology**  
+**University of Moratuwa**
+
+
+</div>
+---
+
+## ⚡ Quick Facts
+
+<div align="center">
 
 | Category | Details |
-|--------|--------|
+|-----------|-----------|
 | 🌍 Location | Sri Lanka 🇱🇰 |
-| 💻 Focus | Web + Mobile + IoT |
-| 📚 Learning | DevOps, Kubernetes, Cloud |
-| 🧠 Interests | Smart Agriculture, Automation |
+| 💼 Role | Software Engineer (Intern)|
+| ☁️ Learning | DevOps & Cloud Native Technologies |
+| 🤖 Exploring | AIOps & Infrastructure Automation |
+| 📡 Building | IoT & Embedded Solutions |
+| 🐧 Daily Driver | Linux |
+| 🚀 Goal | Designing Reliable & Scalable Systems |
 
 </div>
 
 ---
 
-
-
----
-
-# 🛠 Tech Stack
-
-### 🌐 Web Development
+## 🎯 Areas of Interest
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,typescript,flutter"/>
-
-</div>
-
-### 🗃 Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
-<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white"/>
-
-</div>
-
-### ⚙️ DevOps Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,vscode"/>
+| Domain | Focus |
+|---------|---------|
+| 💻 Software Engineering | Full Stack Applications & APIs |
+| ☁️ DevOps | CI/CD, Containers, Kubernetes |
+| 🤖 AIOps | AI-Powered Monitoring & Automation |
+| 📡 IoT | Smart Devices & Connected Systems |
+| 🏗️ Cloud Native | Scalable Distributed Systems |
+| 🐧 Linux | Server Administration & Automation |
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+# 🛠️ Tech Stack
+
+## 🌐 Frontend Development
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=anjuparanagama&show_icons=true&theme=merko&hide_border=true&count_private=true"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,redux"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjuparanagama&layout=compact&theme=merko&hide_border=true"/>
+</div>
+
+---
+
+## ⚙️ Backend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,php,laravel,fastapi"/>
+
+</div>
+
+---
+
+## 🗄️ Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase"/>
+
+</div>
+
+---
+
+## ☁️ DevOps & Cloud
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx,linux,azure"/>
+
+</div>
+
+---
+
+## 🤖 AI / AIOps
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+
+</div>
+
+---
+
+## 📡 IoT & Embedded Systems
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=arduino,c,cpp"/>
+
+</div>
+
+---
+
+## 🧰 Tools & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+
+
+<div align="center">
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=anjuparanagama&theme=merko&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Developer Metrics
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjuparanagama&theme=github_dark"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anjuparanagama&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anjuparanagama&theme=github_dark"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anjuparanagama&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anjuparanagama&theme=github_dark&utcOffset=5.5"/>
 
 </div>
 
@@ -117,13 +198,13 @@ University of Moratuwa
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjuparanagama&bg_color=0d1117&color=2ecc71&line=2ecc71&point=ffffff&area=true&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anjuparanagama&theme=github-dark"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -133,7 +214,7 @@ University of Moratuwa
 
 ---
 
-# 📫 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -145,7 +226,7 @@ University of Moratuwa
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://anjulaparanagama.vercel.app/">
+<a href="https://anjulaparanagama.me/">
 <img src="https://img.shields.io/badge/Portfolio-2ECC71?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -155,8 +236,13 @@ University of Moratuwa
 
 <div align="center">
 
-⭐ If you like my projects, consider giving them a **star**
+## 💡 Building scalable software, automating operations, and connecting the physical world through IoT.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c7744,100:0f2027&height=120&section=footer"/>
+### 🚀 Software Engineering • ☁️ DevOps • 🤖 AIOps • 📡 IoT
+
+⭐ If you like my work, consider giving my repositories a star.
+
+<br/>
+
 
 </div>
