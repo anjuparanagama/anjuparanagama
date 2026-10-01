@@ -56,7 +56,7 @@ I focus on software engineering, cloud-native development, DevOps practices, AIO
 | 🌍 Location | Sri Lanka 🇱🇰 |
 | 💼 Role | Software Engineer (Intern)|
 | ☁️ Learning | DevOps & Cloud Native Technologies |
-| 🤖 Exploring | AIOps & Infrastructure Automation |
+| 🤖 Exploring |
 | 📡 Building | IoT & Embedded Solutions |
 | 🐧 Daily Driver | Linux |
 | 🚀 Goal | Designing Reliable & Scalable Systems |
